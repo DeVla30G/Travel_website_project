@@ -141,7 +141,6 @@
    ![ScreenShot](images/PlanDev.png)
  
 ![ScreenShot](images/P1.png)
-![ScreenShot](images/P2.png)
 ![ScreenShot](images/P3.png)
 ![ScreenShot](images/P4.png)
 ![ScreenShot](images/P5.png)
